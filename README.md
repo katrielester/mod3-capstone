@@ -56,6 +56,7 @@ This project predicts customer subscription to term deposits based on a bank's m
 ## Files
 - **Notebook**: `mod3-capstone.ipynb`
 - **Best Model**: `model.pkl`
+- **Streamlit**: `stream.py`
 
 ## Final Thoughts
 The final XGBoost model successfully achieves the objective of predicting term deposit subscriptions with a high level of precision. By minimizing false positives, the bank can effectively target potential subscribers, leading to significant cost savings and improved campaign outcomes. Continuous monitoring, threshold optimization, and iterative enhancements are recommended to sustain and expand the model's effectiveness in dynamic environments.
